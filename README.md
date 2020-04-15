@@ -19,7 +19,15 @@ In  gym environment, there are three attributes that sould be set in the env cla
 
 ### Exercise 6: xdiscrim
 This robot was trained with ten different seeds (1,5, 11, 14,15,16,18,20,25,30)
-![alt text](/xdiscrim/best30.gif)
 
 This work is based on a tutorial guide in (https://backyardrobotics.eu/2017/11/27/build-a-balancing-bot-with-openai-gym-pt-i-setting-up/).
+
+
 ![alt text](/media/best30.gif)
+
+![alt text](/media/best11.gif)
+
+
+![alt text](/media/best11feedforward.gif
+![alt text](/media/best30feedforward.gif)
+
