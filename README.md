@@ -1,11 +1,11 @@
 
 # Cognitive Robotics
 
-## Comparing the Modified and Original GYM environment
+## Comparing the Modified and Original GYM environment: Exercise 4
 When the half cheetah and hopper were run in the original gym environment and the modified gym environment, the result and performance were different. 
 In the modififed, the hopper and halfcheetah quickly learnt how to walk on the legs after some episodes and were able to balance as against the original where after several training on different seed values, the performance were not as excellent as modified.
 
-## Comparing the Modified and Original GYM environment
+## Comparing the Modified and Original GYM environment : Exercise 5
 When the half cheetah and hopper were run in the original gym environment and the modified gym environment, the result and performance were different. 
 In the modififed, the hopper and halfcheetah quickly learnt how to walk on the legs after some episodes and were able to balance as against the original where after several training on different seed values, the performance were not as excellent as modified.
 ## Balance Bot
