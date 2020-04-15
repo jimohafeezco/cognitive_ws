@@ -31,23 +31,20 @@ This work is based on a tutorial guide in (https://backyardrobotics.eu/2017/11/2
 This robot was trained with ten different seeds (1,5, 11, 14,15,16,18,20,25,30)
 To train an evolutionary algorithm:
 '''python3 ../bin/es.py -f ErDiscrim.ini -s <seed value>
-<<<<<<< HEAD
 
 To run a trained evolutionary algorithm
 python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy
-'''
-![alt text](/media/best30.gif)
-
-=======
-python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy'''
+'''python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy'''
  
+# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
  
- 
-![alt text](/media/stats1.png "Plot showing performance with seed value of 1") 
 ![alt text](/media/allstat.png "Plot of different seed values")
-![alt text](/media/best30.gif) 
->>>>>>> 3d3707bcc11091c43a01cefb2327762e47823841
+
+# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
 ![alt text](/media/best11.gif)
+![alt text](/media/best30.gif) 
+
+# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
 ![alt text](/media/best11feedforward.gif) 
 ![alt text](/media/best30feedforward.gif)
 
