@@ -16,3 +16,4 @@ In  gym environment, there are three attributes that sould be set in the env cla
 
 3) reward_range: A tuple corresponding to the min and max possible rewards.
 This work is based on a tutorial guide in (https://backyardrobotics.eu/2017/11/27/build-a-balancing-bot-with-openai-gym-pt-i-setting-up/).
+![alt text](/xdiscrim/best30.gif)
