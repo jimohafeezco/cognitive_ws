@@ -36,15 +36,15 @@ To run a trained evolutionary algorithm
 python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy
 '''python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy'''
  
-# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
+### Seed Performance of feedforward neural Architectures(Seed values of 11 and 30)
  
 ![alt text](/media/allstat.png "Plot of different seed values")
 
-# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
+### Seed Performance of feedforward neural Architectures(Seed values of 11 and 30)
 ![alt text](/media/best11.gif)
 ![alt text](/media/best30.gif) 
 
-# Seed Performance of feedforward neural Architectures(Seed valies of 11 and 30)
+### Seed Performance of feedforward neural Architectures(Seed values of 11 and 30)
 ![alt text](/media/best11feedforward.gif) 
 ![alt text](/media/best30feedforward.gif)
 
