@@ -30,6 +30,6 @@ python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy'''
 ![alt text](/media/allstat.png "Plot of different seed values")
 ![alt text](/media/best30.gif) 
 ![alt text](/media/best11.gif)
-
-![alt text](/media/best11feedforward.gif) ![alt text](/media/best30feedforward.gif)
+![alt text](/media/best11feedforward.gif) 
+![alt text](/media/best30feedforward.gif)
 
