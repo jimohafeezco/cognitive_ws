@@ -27,7 +27,7 @@ python3 ../bin/es.py -f ErDiscrim.ini -t bestgS30.npy'''
  
  
 ![alt text](/media/stats1.png "Plot showing performance with seed value of 1") 
-![alt text](/media/allstat.png, "Plot of different seed values")
+![alt text](/media/allstat.png "Plot of different seed values")
 ![alt text](/media/best30.gif) 
 ![alt text](/media/best11.gif)
 
